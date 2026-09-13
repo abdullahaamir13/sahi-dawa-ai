@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sahi Dawa — Prescription Transparency</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="page">
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-icon">℞</span>
+        <span class="brand-name">Sahi Dawa</span>
+      </div>
+      <span class="brand-tag">Prescription transparency</span>
+    </header>
+
+    <nav class="steps" id="steps">
+      <button class="step" data-step="form">01<span>Prescription</span></button>
+      <button class="step" data-step="results">02<span>Results</span></button>
+      <button class="step" data-step="explanation">03<span>Explanation</span></button>
+      <button class="step" data-step="summary">04<span>Summary</span></button>
+    </nav>
+
+    <main class="panel" id="panel">
+      <!-- SCREEN 01: PRESCRIPTION -->
+      <section class="screen" id="screen-form">
+        <h1>Prescription details</h1>
+        <p class="lede">Enter what's on the prescription. Matching is exact against the verified catalogue — no guessing, no autocomplete.</p>
+
+        <form id="prescription-form" class="form-grid">
+          <label>
+            <span>patient_id</span>
+            <input type="text" id="input-patient-id" placeholder="PK-10432" value="PK-10432" required>
+          </label>
+          <label>
+            <span>diagnosis</span>
+            <input type="text" id="input-diagnosis" placeholder="Throat infection" value="Throat infection" required>
+          </label>
+          <label>
+            <span>medicine <em>*</em></span>
+            <input type="text" id="input-medicine" placeholder="Azitron" required>
+          </label>
+          <label>
+            <span>dosage <em>(optional)</em></span>
+            <input type="text" id="input-dosage" placeholder="250mg">
+          </label>
+
+          <div class="form-actions">
+            <button type="submit" class="btn btn-primary" id="analyze-btn" disabled>Analyze prescription</button>
+            <code class="endpoint-tag">POST /prescription</code>
+          </div>
+        </form>
+
+        <div class="try-box">
+          <span class="label">Try each matching state</span>
+          <div class="try-buttons">
+            <button type="button" class="btn btn-ghost" data-fill="Azitron|250mg|Throat infection">Azitron · 250mg → FOUND</button>
+            <button type="button" class="btn btn-ghost" data-fill="Azeloc||Throat infection">Azeloc → AMBIGUOUS</button>
+            <button type="button" class="btn btn-ghost" data-fill="Panadol|500mg|Fever">Panadol → NOT_FOUND</button>
+          </div>
+        </div>
+
+        <div class="disclaimer">
+          Sahi Dawa is an educational transparency tool. It does not replace doctor consultations, prescribe, or substitute medication autonomously.
+        </div>
+      </section>
+
+      <!-- LOADING STATE -->
+      <section class="screen" id="screen-loading">
+        <div class="loading-wrap">
+          <div class="spinner"></div>
+          <div>
+            <h2>Calling the backend</h2>
+            <code id="loading-endpoint">POST /prescription</code>
+          </div>
+        </div>
+      </section>
+
+      <!-- SCREEN 02: RESULTS -->
+      <section class="screen" id="screen-results">
+        <div class="results-head">
+          <div>
+            <span class="badge" id="status-badge">status · —</span>
+            <h1 id="result-heading">—</h1>
+            <code id="endpoint-line"></code>
+          </div>
+          <button class="btn btn-ghost" id="new-prescription-btn">↺ New prescription</button>
+        </div>
+
+        <div class="callout callout-info" id="message-box" hidden>
+          <span class="label">message (from backend)</span>
+          <p id="message-text"></p>
+        </div>
+
+        <!-- AMBIGUOUS -->
+        <div class="card" id="candidates-card" hidden>
+          <div class="card-head">
+            <span>candidates · specify the medicine</span>
+            <span class="muted">Pick one to load it by medicine_id</span>
+          </div>
+          <div id="candidates-list"></div>
+        </div>
+
+        <!-- FOUND -->
+        <div id="found-block" hidden>
+          <div class="card">
+            <div class="card-head">
+              <span>medicine · verified catalogue record</span>
+              <code id="med-id-line"></code>
+            </div>
+            <div class="field-grid" id="med-fields"></div>
+            <div class="card-foot" id="verified-line"></div>
+          </div>
+
+          <div class="card">
+            <div class="card-head">
+              <span>alternatives · same ingredient, strength, dosage form</span>
+              <code id="alt-count-line"></code>
+            </div>
+            <div id="alternatives-list"></div>
+          </div>
+
+          <div class="card">
+            <div class="card-head">
+              <span>price_comparison</span>
+              <code id="comparison-basis-line"></code>
+            </div>
+            <div class="field-grid" id="price-fields"></div>
+            <div class="callout callout-muted" id="price-note"></div>
+          </div>
+
+          <div class="side-by-side">
+            <div class="card" id="flags-card">
+              <div class="card-head" id="flags-head">
+                <span>pattern_flags</span>
+              </div>
+              <div id="flags-list"></div>
+            </div>
+            <div class="card">
+              <div class="card-head">
+                <span>encounters</span>
+                <code id="history-endpoint-line"></code>
+              </div>
+              <div id="encounters-list"></div>
+            </div>
+          </div>
+
+          <div class="form-actions">
+            <button class="btn btn-primary" id="read-explanation-btn">Read the explanation →</button>
+            <code class="endpoint-tag">explanation (in POST /prescription response)</code>
+          </div>
+        </div>
+      </section>
+
+      <!-- SCREEN 03: EXPLANATION -->
+      <section class="screen" id="screen-explanation">
+        <code class="eyebrow">response.explanation</code>
+        <h1>Plain-language explanation</h1>
+
+        <div class="card explanation-card" id="explanation-card" hidden>
+          <div id="explanation-text"></div>
+          <hr>
+          <span class="muted small">Rendered as received. The frontend does not generate, edit or re-rank this text.</span>
+        </div>
+
+        <div class="callout callout-dashed" id="no-explanation-box" hidden>
+          <strong>explanation: null</strong>
+          <p>Nothing to render. An explanation is only returned when status is FOUND, and only when the explanation service is available.</p>
+        </div>
+
+        <div class="form-actions">
+          <button class="btn btn-ghost" id="back-to-results-btn">← Back to results</button>
+          <button class="btn btn-primary" id="goto-summary-btn">Patient health summary</button>
+        </div>
+      </section>
+
+      <!-- SCREEN 04: SUMMARY -->
+      <section class="screen" id="screen-summary">
+        <div class="results-head">
+          <div>
+            <code id="summary-endpoint-line"></code>
+            <h1>Patient health summary</h1>
+          </div>
+          <button class="btn btn-ghost" id="print-btn">🖨 Save / print</button>
+        </div>
+
+        <div class="card">
+          <div class="stats-row" id="summary-stats"></div>
+          <div class="summary-row">
+            <span class="key">diagnoses_recorded</span>
+            <span id="summary-diagnoses"></span>
+          </div>
+          <div class="summary-row summary-row-label">medications_recorded</div>
+          <div id="summary-medications"></div>
+          <div class="callout callout-muted" id="summary-transparency-note"></div>
+        </div>
+
+        <div class="form-actions">
+          <button class="btn btn-ghost" id="analyze-another-btn">↺ Analyze another prescription</button>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footnote">
+      INPUT → API → RESPONSE → DISPLAY. No matching, pricing, storage or reasoning happens in this client.
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

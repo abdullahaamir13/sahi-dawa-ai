@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: sahi-dawa
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /health
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false          # set this secret in the Render dashboard
+      - key: ALLOWED_ORIGINS
+        value: "*"           # tighten to your frontend's origin if you split deployment later

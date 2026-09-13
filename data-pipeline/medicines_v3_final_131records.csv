@@ -1,0 +1,132 @@
+medicine_id,brand_name,generic_name,active_ingredient,strength,dosage_form,pack_size,manufacturer,price,price_effective_date,registration_number,drap_source_url,last_verified,data_status,medicine_category
+MED001,GRASIL,Amikacin,Amikacin,100mg,Injection,2 ml,SAMI Pharmaceuticals Pvt. Ltd. DML: 000072,169.15,"23 Jul, 2026",19704,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED002,GRASIL,Amikacin,Amikacin,250mg,Injection,2 ml,SAMI Pharmaceuticals Pvt. Ltd. DML: 000072,341.19,"23 Jul, 2026",13530,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED003,GRASIL,Amikacin,Amikacin,25mg,Injection,1 ml,SAMI Pharmaceuticals Pvt. Ltd. DML: 000072,46.18,"23 Jul, 2026",47143,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED004,GRASIL,Amikacin,Amikacin,500mg,Injection,2 ml,SAMI Pharmaceuticals Pvt. Ltd. DML: 000072,483.16,"23 Jul, 2026",14251,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED005,GRASIL,Amikacin,Amikacin,50mg,Injection,1 ml,SAMI Pharmaceuticals Pvt. Ltd. DML: 000072,57.64,"23 Jul, 2026",47144,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED006,Zithrosan 1% Eye Drops Solution,Azithromycin,Azithromycin,10mg,Other,2.5ml,Sante (Private) Limited DML: 000702,199.6,"27 Jul, 2026",104067,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED007,Azeloc Dry Susp,Azithromycin,Azithromycin,200mg,Other,15ml,Evolution Pharmaceuticals (Pvt.) Ltd. DML: 000867,329.12,"29 Jul, 2026",90055,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED008,Zetro,Azithromycin,Azithromycin,250mg,Tablet,6's,Getz Pharma (Pvt) Limited DML: 000284,225.1,"27 Jul, 2026",66913,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED009,Azeloc,Azithromycin,Azithromycin,250mg,Tablet,1 x 6's,Evolution Pharmaceuticals (Pvt.) Ltd. DML: 000867,291.22,"29 Jul, 2026",95366,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED010,Azeloc,Azithromycin,Azithromycin,250mg,Capsule,6's,Evolution Pharmaceuticals (Pvt.) Ltd. DML: 000867,305.19,"29 Jul, 2026",87682,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED011,Azitron,Azithromycin,Azithromycin,250mg,Tablet,6's,The Searle Company Limited DML: 000647,324.33,"23 Jul, 2026",54512,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED012,Azeloc,Azithromycin,Azithromycin,250mg,Tablet,1 x 10's,Evolution Pharmaceuticals (Pvt.) Ltd. DML: 000867,456.9,"29 Jul, 2026",95366,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED013,Lazio,Azithromycin,Azithromycin,250mg,Capsule,1 x 10's,The Schazoo Pharmaceutical Laboratories (Pvt.) Ltd. DML: 000019,508.6,"23 Jul, 2026",65825,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED014,Zolecta,Azithromycin,Azithromycin,250mg,Capsule,10's,S.J & G. Fazul Ellahie (pvt) limited. DML: 000083,533.88,"20 Aug, 2026",55700,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED015,Zolecta,Azithromycin,Azithromycin,500mg,Capsule,3's,S.J & G. Fazul Ellahie (pvt) limited. DML: 000083,261.7,"20 Aug, 2026",55701,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED016,Omixim,Cefixime,Cefixime,100mg,Suspension,30ml,The Searle Company Limited DML: 000647,330.38,"23 Jul, 2026",62443,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED017,Stork,Cefixime,Cefixime,100mg/5ml,Suspension,30ml,UniMark Pharmaceuticals Pvt. Ltd. DML: 000557,330.39,"20 Aug, 2026",121416,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED018,Cefiget,Cefixime,Cefixime,100mg/5ml,Suspension,30ml,Getz Pharma (Pvt.) Ltd. DML: 000933,330.38,"27 Jul, 2026",45119,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED019,Cefiget,Cefixime,Cefixime,100mg/5ml,Suspension,60ml,Getz Pharma (Pvt.) Ltd. DML: 000933,647.54,"27 Jul, 2026",45119,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED020,Omixim,Cefixime,Cefixime,200mg,Capsule,10's,The Searle Company Limited DML: 000647,646.45,"23 Jul, 2026",62442,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED021,Cefiget,Cefixime,Cefixime,200mg,Tablet,10's,Getz Pharma (Pvt.) Ltd. DML: 000933,648.51,"27 Jul, 2026",55746,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED022,Cefiget,Cefixime,Cefixime,200mg,Tablet,5's,Getz Pharma (Pvt.) Ltd. DML: 000933,340.78,"27 Jul, 2026",55746,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED023,Cefiget DS,Cefixime,Cefixime,200mg/5ml,Suspension,30ml,Getz Pharma (Pvt.) Ltd. DML: 000933,404.32,"27 Jul, 2026",45120,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED024,Omixim,Cefixime,Cefixime,400mg,Capsule,5's,The Searle Company Limited DML: 000647,592.03,"23 Jul, 2026",62441,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED025,Cefiget,Cefixime,Cefixime,400mg,Capsule,5's,Getz Pharma (Pvt.) Ltd. DML: 000933,592.02,"27 Jul, 2026",45118,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED026,Fastimax Injection,Cefotaxime,Cefotaxime,500mg,Injection,Vial,S.J & G. Fazul Ellahie (pvt) limited. DML: 000083,170.62,"20 Aug, 2026",44316,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED027,Cefinig,Ceftriaxone,Ceftriaxone,1g,Injection,1 Vial,HONIG PHARMACEUTICALS LABORATORIES DML: 000550,547.65,"01 Jul, 2024",50761,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED028,Titan Inj. IM IV,Ceftriaxone,Ceftriaxone,1g,Injection,1's,Macter International Limited DML: 000141,598.94,"23 Jul, 2026",21743,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED029,Tefno Injection,Ceftriaxone,Ceftriaxone,1g,Injection,1's,The Searle Company Limited DML: 000647,662.97,"23 Jul, 2026",90325,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED030,Cefinig,Ceftriaxone,Ceftriaxone,250mg,Injection,1 Vial,HONIG PHARMACEUTICALS LABORATORIES DML: 000550,172.31,"01 Jul, 2024",50759,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED031,Uneek Injection Sodium,Ceftriaxone,Ceftriaxone,250mg,Injection,1,NAVEGAL LABORATORIES DML: 000591,186.51,"30 Jul, 2026",45442,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED032,Tefno Injection,Ceftriaxone,Ceftriaxone,250mg,Injection,1's,The Searle Company Limited DML: 000647,208.6,"23 Jul, 2026",62440,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED033,Novosef IV Inj. Sodium 0,Ceftriaxone,Ceftriaxone,25g,Injection,1 Vial,Himont Pharmaceuticals (Pvt.) Ltd. DML: 000231,254.04,"27 Jul, 2026",21700,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED034,Uneek Injection Sodium,Ceftriaxone,Ceftriaxone,500mg,Injection,1,NAVEGAL LABORATORIES DML: 000591,313.92,"30 Jul, 2026",53219,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED035,Tefno Injection,Ceftriaxone,Ceftriaxone,500mg,Injection,1's,The Searle Company Limited DML: 000647,351.11,"23 Jul, 2026",90324,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED036,Novosef IM Inj. Sodium 0,Ceftriaxone,Ceftriaxone,5g,Injection,1 Vial,Himont Pharmaceuticals (Pvt.) Ltd. DML: 000231,454.26,"27 Jul, 2026",19155,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED037,Cinoflox,Ciprofloxacin,Ciprofloxacin,100mg,Other,Vial,S.J & G. Fazul Ellahie (pvt) limited. DML: 000083,123.91,"20 Aug, 2026",58540,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED038,Cipvax-125 Dry Susp (as HCl)…………,Ciprofloxacin,Ciprofloxacin,125mg,Other,60ml,"Genome Pharmaceuticals (Pvt.) Ltd, DML: 000454",222.36,"27 Jul, 2026",74529,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED039,Cithrox Infusion,Ciprofloxacin,Ciprofloxacin,200mg/100ml,Other,100ml,Akson Pharmaceuticals (Pvt) Ltd DML: 000486,332.39,"27 Jul, 2026",31671,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED040,EXCIPRO,Ciprofloxacin,Ciprofloxacin,250MG,Tablet,1 X 10'S,OPAL LABORATORIES (PVT) LTD DML: 000046,367.99,"27 Jul, 2026",17228,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED041,Savoxacin,Ciprofloxacin,Ciprofloxacin,250mg,Tablet,10's,Pfizer Pakistan Limited DSL: 687,248.08,"01 Jul, 2024",61969,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED042,Zeproquin,Ciprofloxacin,Ciprofloxacin,250mg,Tablet,10's,Sante (Private) Limited DML: 000702,268.48,"27 Jul, 2026",76126,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED043,Bakcin Ophthalmic Solution,Ciprofloxacin,Ciprofloxacin,3mg,Other,5ml,Sante (Private) Limited DML: 000702,219.94,"27 Jul, 2026",30361,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED044,Cinoflox,Ciprofloxacin,Ciprofloxacin,400mg,Other,Vial,S.J & G. Fazul Ellahie (pvt) limited. DML: 000083,351.9,"20 Aug, 2026",76041,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED045,Savoxacin,Ciprofloxacin,Ciprofloxacin,500mg,Tablet,10's,Pfizer Pakistan Limited DSL: 687,410.27,"01 Jul, 2024",61970,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED046,Cipvax-500,Ciprofloxacin,Ciprofloxacin,500mg,Tablet,1 x 10's,"Genome Pharmaceuticals (Pvt.) Ltd, DML: 000454",518.57,"27 Jul, 2026",43310,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED047,Zeclar,Clarithromycin,Clarithromycin,125mg,Suspension,60 ml,S.J & G. Fazul Ellahie (pvt) limited. DML: 000083,460.52,"20 Aug, 2026",55693,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED048,Semos Dry,Clarithromycin,Clarithromycin,125mg/5ml,Suspension,60ml,Semos Pharmaceuticals PVT LTD DML: 000335,345.22,"05 Sep, 2025",104187,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED049,Semos,Clarithromycin,Clarithromycin,250mg,Tablet,10's,Semos Pharmaceuticals PVT LTD DML: 000335,371.54,"05 Sep, 2025",104185,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED050,Clariza,Clarithromycin,Clarithromycin,250mg,Tablet,10's,The Searle Company Limited DML: 000647,506.06,"23 Jul, 2026",54513,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED051,Zeclar,Clarithromycin,Clarithromycin,250mg,Tablet,10's,S.J & G. Fazul Ellahie (pvt) limited. DML: 000083,511.85,"20 Aug, 2026",55694,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED052,Claraze,Clarithromycin,Clarithromycin,250mg,Tablet,10's,Sante (Private) Limited DML: 000702,526.21,"27 Jul, 2026",73446,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED053,Clariza XL,Clarithromycin,Clarithromycin,500mg,Tablet,1's,The Searle Company Limited DML: 000647,92.95,"23 Jul, 2026",69062,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED054,Zeclar,Clarithromycin,Clarithromycin,500mg,Injection,Vial,S.J & G. Fazul Ellahie (pvt) limited. DML: 000083,170.62,"20 Aug, 2026",55181,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED055,Zeclar ER,Clarithromycin,Clarithromycin,500mg,Tablet,5's,S.J & G. Fazul Ellahie (pvt) limited. DML: 000083,401.86,"20 Aug, 2026",92816,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED056,Clariza XL,Clarithromycin,Clarithromycin,500mg,Tablet,5's,The Searle Company Limited DML: 000647,427.52,"23 Jul, 2026",69062,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED057,Clogpid,Clopidogrel,Clopidogrel,75mg,Tablet,10's,S.J & G. Fazul Ellahie (pvt) limited. DML: 000083,293.11,"20 Aug, 2026",32401,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED058,JARDY,Empagliflozin,Empagliflozin,10mg,Tablet,14's,CCL Pharmaceuticals (Pvt.) Ltd. DML: 000052,1277.68,"23 Jul, 2026",94004,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED059,JARDY,Empagliflozin,Empagliflozin,25mg,Tablet,14's,CCL Pharmaceuticals (Pvt.) Ltd. DML: 000052,1529.29,"23 Jul, 2026",94003,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED060,Sanflucan,Fluconazole,Fluconazole,150mg,Capsule,1's,Sante (Private) Limited DML: 000702,282.92,"27 Jul, 2026",88917,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED061,Zocon,Fluconazole,Fluconazole,150mg,Tablet,1's,The Searle Company Limited DML: 000647,189.76,"23 Jul, 2026",60480,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED062,Sanflucan,Fluconazole,Fluconazole,200mg,Capsule,4's,Sante (Private) Limited DML: 000702,1004.79,"27 Jul, 2026",86046,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED063,Sanflucan,Fluconazole,Fluconazole,50mg,Capsule,7's,Sante (Private) Limited DML: 000702,916.28,"27 Jul, 2026",86044,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED064,Oral,Ibuprofen,Ibuprofen,100mg,Suspension,450ml,Paradise Pharma DML: 000742,480.62,"27 Jul, 2026",71547,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Non-antibiotic
+MED065,Oral,Ibuprofen,Ibuprofen,100mg,Suspension,90ml,Paradise Pharma DML: 000742,98.44,"27 Jul, 2026",71547,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Non-antibiotic
+MED066,Oral,Ibuprofen,Ibuprofen,100mg,Suspension,60ml,Paradise Pharma DML: 000742,63.7,"27 Jul, 2026",71547,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Non-antibiotic
+MED067,Mextu,Methotrexate,Methotrexate,1000mg/40ml,Injection,1's,PUNJAB MEDICAL SERVICES DSL: 05-352-0063-041061D,3810.42,"27 Jul, 2026",110491,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED068,Mextu,Methotrexate,Methotrexate,500mg/20ml,Injection,1's,PUNJAB MEDICAL SERVICES DSL: 05-352-0063-041061D,2286.25,"27 Jul, 2026",106826,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED069,Mextu,Methotrexate,Methotrexate,50mg/2ml,Injection,1's,PUNJAB MEDICAL SERVICES DSL: 05-352-0063-041061D,353.82,"27 Jul, 2026",106825,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED070,Liquid,Metronidazole,Metronidazole,200mg,Suspension,60ml,Caliph Pharmaceuticals (Pvt) Ltd. DML: 000748,56.31,"24 Jun, 2026",79356,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED071,Liquid,Metronidazole,Metronidazole,200mg,Suspension,90ml,Caliph Pharmaceuticals (Pvt) Ltd. DML: 000748,84.46,"24 Jun, 2026",79356,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED072,Metrozine,Metronidazole,Metronidazole,200mg,Tablet,100's,The Searle Company Limited DML: 000647,267.4,"23 Jul, 2026",10932,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED073,Metrozine,Metronidazole,Metronidazole,400mg,Tablet,100's,The Searle Company Limited DML: 000647,377.52,"23 Jul, 2026",10931,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Antibiotic
+MED074,Megamox,Moxifloxacin,Moxifloxacin,200mg,Tablet,10's,Sante (Private) Limited DML: 000702,484.33,"27 Jul, 2026",39285,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED075,Savelox,Moxifloxacin,Moxifloxacin,250mg,Tablet,1x10's,"Popular Chemical Works Pvt Ltd., DML: 000076",255.32,"25 Aug, 2026",32255,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED076,Navelox,Moxifloxacin,Moxifloxacin,400mg,Tablet,5,NAVEGAL LABORATORIES DML: 000591,877.13,"30 Jul, 2026",68237,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED077,Santomox,Moxifloxacin,Moxifloxacin,400mg,Tablet,5's,Sante (Private) Limited DML: 000702,994.59,"27 Jul, 2026",37031,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED078,Moxiget,Moxifloxacin,Moxifloxacin,400mg,Tablet,5's,Getz Pharma (Pvt.) Ltd. DML: 000933,994.61,"27 Jul, 2026",47117,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED079,Avelox,Moxifloxacin,Moxifloxacin,400mg,Tablet,1 x 5's,Bayer Pakistan Private Limited DSL: 0611,1490.83,"05 Aug, 2025",24653,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED080,Moxiget,Moxifloxacin,Moxifloxacin,400mg,Tablet,1 x 10's,Getz Pharma (Pvt.) Ltd. DML: 000933,1949.43,"27 Jul, 2026",47117,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED081,Avelox Infusion Solution,Moxifloxacin,Moxifloxacin,400mg,Other,1 x 250ml,Bayer Pakistan Private Limited DSL: 0611,2285.19,"05 Aug, 2025",109733,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED082,Moxiget IV Infusion,Moxifloxacin,Moxifloxacin,400mg/250ml,Other,1 x 250ml,Getz Pharma (Pvt) Limited DML: 000284,1968.13,"19 Aug, 2025",50650,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED083,Savelox,Moxifloxacin,Moxifloxacin,500mg,Tablet,1x10's,"Popular Chemical Works Pvt Ltd., DML: 000076",396.9,"25 Aug, 2026",29328,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Antibiotic
+MED084,Romeprazole,Omeprazole,Omeprazole,20mg,Capsule,1x10s,Arsons Pharmaceutical Industries (Pvt) Ltd DML: 000514,179.39,"01 Jul, 2025",71415,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Non-antibiotic
+MED085,Megazole,Omeprazole,Omeprazole,20mg,Capsule,1 x 10's,Mega Pharmaceuticals limited DML: 000537,179.96,"17 Aug, 2026",37847,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED086,Xempra,Omeprazole,Omeprazole,20mg,Capsule,1 x 10's,"Genome Pharmaceuticals (Pvt.) Ltd, DML: 000454",205.43,"27 Jul, 2026",46195,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED087,Romeprazole,Omeprazole,Omeprazole,20mg,Capsule,2x7s,Arsons Pharmaceutical Industries (Pvt) Ltd DML: 000514,250.8,"01 Jul, 2025",71415,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Non-antibiotic
+MED088,Megazole,Omeprazole,Omeprazole,20mg,Capsule,14's,Mega Pharmaceuticals limited DML: 000537,287.24,"17 Aug, 2026",37847,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED089,Vify,Omeprazole,Omeprazole,20mg,Injection,1's vial,S.J & G. Fazul Ellahie (pvt) limited. DML: 000083,373.24,"20 Aug, 2026",61432,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Non-antibiotic
+MED090,Megazole,Omeprazole,Omeprazole,40mg,Capsule,1 x 10's,Mega Pharmaceuticals limited DML: 000537,313.36,"17 Aug, 2026",83186,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED091,Mep-Med,Omeprazole,Omeprazole,40mg,Capsule,10,Mediate Pharmaceutical Pvt Ltd DML: 000167,314.98,"27 Jan, 2026",53273,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Non-antibiotic
+MED092,Xempra-40,Omeprazole,Omeprazole,40mg,Capsule,1 x 10's,"Genome Pharmaceuticals (Pvt.) Ltd, DML: 000454",357.02,"27 Jul, 2026",60029,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED093,Mep-Med,Omeprazole,Omeprazole,40mg,Capsule,14,Mediate Pharmaceutical Pvt Ltd DML: 000167,439.92,"27 Jan, 2026",53273,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Non-antibiotic
+MED094,Emesson Injection,Ondansetron,Ondansetron,4mg,Injection,1,Highnoon Laboratories Ltd DML: 000155,572.5,"27 Jul, 2026",110994,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED095,Emesson,Ondansetron,Ondansetron,4mg,Tablet,10,Highnoon Laboratories Ltd DML: 000155,767.3,"27 Jul, 2026",110632,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED096,Emesson Injection,Ondansetron,Ondansetron,4mg,Injection,5,Highnoon Laboratories Ltd DML: 000155,2538.84,"27 Jul, 2026",110994,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED097,Emesson,Ondansetron,Ondansetron,4mg/5ml,Other,50ml,Highnoon Laboratories Ltd DML: 000155,743.51,"27 Jul, 2026",110633,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED098,-SANDOZ,Ondansetron,Ondansetron,8MG/4ML,Injection,4ml,AGP Limited DSL: 001,1045.64,"23 Jul, 2026",114227,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED099,Emesson Injection,Ondansetron,Ondansetron,8mg,Injection,1,Highnoon Laboratories Ltd DML: 000155,768.79,"27 Jul, 2026",110635,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED100,4ml Inj.,Ondansetron,Ondansetron,8mg,Injection,4ml x 1's,Bajwa Pharmaceuticals (Pvt.) Ltd. DML: 000805,1031.23,"27 Jul, 2026",110920,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED101,Emesson,Ondansetron,Ondansetron,8mg,Tablet,10,Highnoon Laboratories Ltd DML: 000155,1278.84,"27 Jul, 2026",110634,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED102,Emesson Injection,Ondansetron,Ondansetron,8mg,Injection,5,Highnoon Laboratories Ltd DML: 000155,3843.95,"27 Jul, 2026",110635,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED103,Normon,Ondansetron,Ondansetron,8mg,Injection,5's,Merixil Pharma DSL: DHO-ISB-1745,4773.43,"27 Jul, 2026",81802,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED104,Nuberol-P,Paracetamol,Paracetamol,120mg/5ml,Suspension,60ml,The Searle Company Limited DML: 000647,66.01,"23 Jul, 2026",93671,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Non-antibiotic
+MED105,Nuberol-P,Paracetamol,Paracetamol,120mg/5ml,Suspension,90ml,The Searle Company Limited DML: 000647,99.02,"23 Jul, 2026",93671,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Non-antibiotic
+MED106,Nuberol-P,Paracetamol,Paracetamol,120mg/5ml,Suspension,100ml,The Searle Company Limited DML: 000647,110.02,"23 Jul, 2026",93671,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Non-antibiotic
+MED107,Nuberol-P,Paracetamol,Paracetamol,120mg/5ml,Suspension,120ml,The Searle Company Limited DML: 000647,129.38,"23 Jul, 2026",93671,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Non-antibiotic
+MED108,Nuberol-P,Paracetamol,Paracetamol,120mg/5ml,Suspension,450ml,The Searle Company Limited DML: 000647,475.29,"23 Jul, 2026",93671,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Non-antibiotic
+MED109,Monadol,Paracetamol,Paracetamol,160mg/5ml,Suspension,120ml,Wimits Pharmaceuticals Pvt. Ltd DML: 000789,155.25,"25 Aug, 2026",121583,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Non-antibiotic
+MED110,Nuberol-P Forte,Paracetamol,Paracetamol,250mg,Suspension,60ml,The Searle Company Limited DML: 000647,94.97,"23 Jul, 2026",93672,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Non-antibiotic
+MED111,Nuberol-P Forte,Paracetamol,Paracetamol,250mg,Suspension,90ml,The Searle Company Limited DML: 000647,142.45,"23 Jul, 2026",93672,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Non-antibiotic
+MED112,Nuberol-P Forte,Paracetamol,Paracetamol,250mg,Suspension,100ml,The Searle Company Limited DML: 000647,158.28,"23 Jul, 2026",93672,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Non-antibiotic
+MED113,Nuberol-P Forte,Paracetamol,Paracetamol,250mg,Suspension,120ml,The Searle Company Limited DML: 000647,186.13,"23 Jul, 2026",93672,https://e.dra.gov.pk/public/price,2026-09-11,VERIFIED,Non-antibiotic
+MED114,Vegamet -200,Ranitidine,Ranitidine,200mg,Tablet,2x10,VENUS PHARMA DML: 000300,47.53,"01 Jul, 2025",28319,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED115,Vegamet -200,Ranitidine,Ranitidine,200mg,Tablet,20x10,VENUS PHARMA DML: 000300,369.37,"01 Jul, 2025",28319,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED116,Vegamet -200,Ranitidine,Ranitidine,200mg,Tablet,1x200's,VENUS PHARMA DML: 000300,366.66,"01 Jul, 2025",28319,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED117,Gamet,Ranitidine,Ranitidine,20mg,Capsule,1 x 16's,Glitz Pharma DML: 000571,574.8,"04 Sep, 2025",56266,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED118,Vegamet – 400,Ranitidine,Ranitidine,400mg,Tablet,1x10,VENUS PHARMA DML: 000300,43.46,"01 Jul, 2025",28320,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED119,Vegamet – 400,Ranitidine,Ranitidine,400mg,Tablet,10x10,VENUS PHARMA DML: 000300,332.7,"01 Jul, 2025",28320,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED120,Vegamet – 400,Ranitidine,Ranitidine,400mg,Tablet,1x100's,VENUS PHARMA DML: 000300,399.25,"01 Jul, 2025",28321,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED121,Gamet DS,Ranitidine,Ranitidine,40mg,Capsule,8's,Glitz Pharma DML: 000571,474.21,"04 Sep, 2025",60191,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED122,Ventolin Evohaler sulphate 100mcg,Salbutamol,Salbutamol,100mcg,Other,200 doses,GSK Pakistan Limited DSL: 066,413.07,"23 Jul, 2026",41195,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED123,Ventolin Injection 0,Salbutamol,Salbutamol,5mg,Injection,5's,GlaxoSmithKline Pakistan Limited DML: 000248,195.69,"23 Jul, 2026",89274,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED124,Ventolin respirator solution 0.5% w/v,Salbutamol,Salbutamol,0.5% w/v,Other,20ml,GlaxoSmithKline Pakistan Limited DML: 000017,72.29,"23 Jul, 2026",13350,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED125,SIM-STAT,Simvastatin,Simvastatin,10mg,Tablet,10's,CCL Pharmaceuticals (Pvt.) Ltd. DML: 000052,351.1,"23 Jul, 2026",31673,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED126,SIM-STAT,Simvastatin,Simvastatin,20mg,Tablet,10's,CCL Pharmaceuticals (Pvt.) Ltd. DML: 000052,567.96,"23 Jul, 2026",31674,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED127,SIM-STAT,Simvastatin,Simvastatin,40mg,Tablet,10's,CCL Pharmaceuticals (Pvt.) Ltd. DML: 000052,722.86,"23 Jul, 2026",31675,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED128,TELSARTAN PLUS,Telmisartan,Telmisartan,40mg,Tablet,14's,CCL Pharmaceuticals (Pvt.) Ltd. DML: 000052,614.45,"23 Jul, 2026",93973,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED129,TELSARTAN PLUS,Telmisartan,Telmisartan,40mg,Tablet,28's,CCL Pharmaceuticals (Pvt.) Ltd. DML: 000052,1167.47,"23 Jul, 2026",93973,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED130,TELSARTAN PLUS 80/12.5,Telmisartan,Telmisartan,80mg,Tablet,14's,Lucky Core Industries Limited DML: 000363,1071.32,"01 Jul, 2024",93974,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
+MED131,TELSARTAN PLUS 80/12.5,Telmisartan,Telmisartan,80mg,Tablet,28's,Lucky Core Industries Limited DML: 000363,2032.76,"01 Jul, 2024",93974,https://e.dra.gov.pk/public/price,2026-09-12,VERIFIED,Non-antibiotic
